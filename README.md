@@ -1,2 +1,1 @@
-# PROALG-1C-EDU
-Lições e trabalhos para a aula de programação e algoritmo do professor Anderson
+Scratch: https://scratch.mit.edu/projects/500813220/
