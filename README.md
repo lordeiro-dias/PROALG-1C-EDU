@@ -1,1 +1,3 @@
-Scratch: https://scratch.mit.edu/projects/500813220/
+Progamação e Algoritmos
+
+Scratch: https://scratch.mit.edu/users/lordeiroedu/
