@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fundo{
+
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-align: center;
+    padding-top: 8%;
+}
+
+.maquineta{
+    position: absolute;
+    background-color: rgb(17, 92, 7);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+    border: none;
+    color: white;
+}
+
+.botao:hover{
+    background-color: rgb(14, 221, 31)
+}
+
+#resultado {
+    background-color: white;
+    width: 194px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
+}
+
